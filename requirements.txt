@@ -1,5 +1,6 @@
 flask
 cmake
+dlib
 face-recognition
 firebase
 firebase-admin
@@ -7,4 +8,7 @@ mediapipe
 numpy
 opencv-python
 Gunicorn
+
+
+
 
