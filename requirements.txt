@@ -1,0 +1,10 @@
+flask
+cmake
+face-recognition
+firebase
+firebase-admin
+mediapipe
+numpy
+opencv-python
+Gunicorn
+

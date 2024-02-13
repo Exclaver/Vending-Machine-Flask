@@ -29,7 +29,7 @@ authloop = -1
 cntr = 1
 bucket = storage.bucket()
 mainCounter = 0
-selectionSpeed = 9
+selectionSpeed = 13
 wCam, hCam = 640, 480
 cap = cv2.VideoCapture(0)
 cap.set(3, wCam)
