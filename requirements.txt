@@ -1,5 +1,6 @@
 flask
 cmake
+cmake-converter
 dlib
 face-recognition
 firebase
